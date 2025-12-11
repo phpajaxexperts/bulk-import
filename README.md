@@ -59,7 +59,7 @@ A comprehensive Laravel + React application for bulk CSV import and chunked drag
 
 1. **Clone and install dependencies:**
 ```bash
-cd /Applications/XAMPP/xamppfiles/htdocs/projects/hipster/bulkimport
+cd /bulkimport
 composer install
 npm install
 ```
